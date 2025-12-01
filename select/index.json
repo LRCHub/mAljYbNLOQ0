@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Tactics",
+  "base_artist": "THE YELLOW MONKEY",
+  "createdAt": "2025-12-01T18:04:23.889735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Autumn Tactics",
+      "artist": "Chicane feat. Justine Suissa",
+      "has_synced": false,
+      "path": "select/01_Autumn_Tactics_Chicane_feat._Justine_Suissa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Autumn Tactics",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/02_Autumn_Tactics_Chicane.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Autumn Tactics (Chicane's End of Summer Remix) [Radio Edit]",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/03_Autumn_Tactics_(Chicane's_End_of_Summer_Remix)_[Radio_Edit]_Chicane.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Autumn Tactics (Chicane's End Of Summer Remix Radio Edit)",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/04_Autumn_Tactics_(Chicane's_End_Of_Summer_Remix_Radio_Edit)_Chicane.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Autumn Tactics (Chicane's End of Summer Remix)",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/05_Autumn_Tactics_(Chicane's_End_of_Summer_Remix)_Chicane.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Autumn Tactics (The Thrillseekeers remix)",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/06_Autumn_Tactics_(The_Thrillseekeers_remix)_Chicane.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tactics",
+      "artist": "Japanese Breakfast",
+      "has_synced": true,
+      "path": "select/07_Tactics_Japanese_Breakfast.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gutter Tactics",
+      "artist": "Dälek",
+      "has_synced": false,
+      "path": "select/08_Gutter_Tactics_Dälek.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Torture Tactics",
+      "artist": "Nuclear Assault",
+      "has_synced": true,
+      "path": "select/09_Torture_Tactics_Nuclear_Assault.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Torture Tactics (Live)",
+      "artist": "Nuclear Assault",
+      "has_synced": false,
+      "path": "select/10_Torture_Tactics_(Live)_Nuclear_Assault.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Omygod! (Gemini Tactics Remix)",
+      "artist": "Kate Nash",
+      "has_synced": true,
+      "path": "select/11_Omygod!_(Gemini_Tactics_Remix)_Kate_Nash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Punk Tactics",
+      "artist": "Joey Valence feat. Brae",
+      "has_synced": true,
+      "path": "select/12_Punk_Tactics_Joey_Valence_feat._Brae.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Punk Tactics",
+      "artist": "Joey Valence/Brae",
+      "has_synced": true,
+      "path": "select/13_Punk_Tactics_Joey_Valence_Brae.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Autumn Tactics (Original Mix)",
+      "artist": "Chicane",
+      "has_synced": true,
+      "path": "select/14_Autumn_Tactics_(Original_Mix)_Chicane.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tactics",
+      "artist": "Cheeky Parade",
+      "has_synced": false,
+      "path": "select/pl_01_Tactics_Cheeky_Parade.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Tactics",
+      "artist": "Cheeky Parade",
+      "has_synced": false,
+      "path": "select/pl_02_Tactics_Cheeky_Parade.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "TACTICS",
+      "artist": "Cheeky Parade",
+      "has_synced": false,
+      "path": "select/pl_03_TACTICS_Cheeky_Parade.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "TACTICS",
+      "artist": "Cheeky Parade",
+      "has_synced": false,
+      "path": "select/pl_04_TACTICS_Cheeky_Parade.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Tactics",
+      "artist": "Cheeky Parade",
+      "has_synced": false,
+      "path": "select/pl_05_Tactics_Cheeky_Parade.txt"
+    }
+  ]
+}
