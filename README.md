@@ -1,0 +1,27 @@
+# THE YELLOW MONKEY – Tactics
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:44.72] Tried, tried to recall
+[00:50.22] Memories of peaches, the sun on my neck
+[00:58.48] And I guess without you, I would attach myself too
+[01:07.77] Without much discretion of who
+[01:22.77] 
+[01:13.04] So I had to
+[01:16.76] Move a great distance from you
+[01:23.75] Cross a sea, keep you from me
+[01:30.94] Move a great distance from you
+[01:38.00] Cross a sea, keep you from me
+[01:52.50] 
+[02:13.16] So say, say what you want
+[02:19.11] Dose up on fiction, disfigure the truth
+[02:27.17] While I walk, life beating on
+[02:33.23] Aching for others with love that stops short
+[02:55.23] 
+[02:41.69] A love that has to
+[02:45.71] Move a great distance from you
+[02:52.84] Cross a sea, keep you from me
+[02:59.82] Move a great distance from you
+[03:06.81] Cross a sea, keep you from me
+```
